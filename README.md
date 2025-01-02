@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently studying.<br>👯 I’m looking to collaborate on new software projects.<br>🤝 I’m looking for help with my coding project.<br>🌱 I’m currently learning computer science engineering.<br>💬 Ask me about coding issues.<br>⚡ Fun fact If the code is working correctly, don't modify it.
+# Hello World!, I'm Abdul Rehman, a Student Developer👋🏻:
+🔭 I’m currently studying.<br> I’m looking to collaborate on new software projects.<br>🤝 I’m looking for help with my coding project.<br>🌱 I’m currently learning computer science engineering.<br>💬 Ask me about coding issues.<br>⚡ Fun fact If the code is working correctly, don't modify it.
 
 
 ## 🌐 Socials:
