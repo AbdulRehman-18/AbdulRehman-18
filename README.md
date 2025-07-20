@@ -1,35 +1,14 @@
-# Abdul Rehman
-**Backend Developer | Computer Science Student**
-
-## About
-Computer Science student with 3+ years of experience in backend development. Passionate about building scalable systems and exploring AI/ML technologies. Currently seeking internship opportunities and open source collaboration.
-
-## Technical Skills
-**Languages:** Python, JavaScript, Java  
-**Backend:** Node.js, Express.js, REST APIs  
-**Databases:** MongoDB, SQL  
-**Frontend:** React, HTML/CSS, TypeScript  
-**Tools & Technologies:** Git, Docker, Linux, AWS  
-**AI/ML:** TensorFlow, PyTorch, Data Analysis
-
-## Current Focus
-- Backend API development and optimization
-- Machine learning research projects
-- Cloud architecture and DevOps practices
-- Open source contributions
-
-## Experience Highlights
-- 1200+ commits across various projects
-- 25+ completed projects
-- Strong problem-solving and debugging skills
-- Experience with full-stack development
-
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=AbdulRehman-18&show_icons=true&theme=default&hide_border=true)
-
-## Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-rehman-350a702b9)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-
+# Hello World!, I'm Abdul Rehman 👋🏻:
+🔥 I’m currently studying.<br>💻 I’m looking to collaborate on new software projects.<br>🤝 I’m looking for help with my coding project.<br>🌱 I’m currently learning computer science engineering.<br>💬 Ask me your doubt I've the ability to solve it 😎.<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-rehman-350a702b9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AbdulRehman-18&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AbdulRehman-18&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRehman-18&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=AbdulRehman-18&limit=5&theme=dark&combine_all_yearly_contributions=true)
 ---
-*Open to collaboration opportunities and always learning new technologies.*
+[![](https://visitcount.itsvg.in/api?id=AbdulRehman-18&icon=5&color=6)](https://visitcount.itsvg.in)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
