@@ -16,7 +16,7 @@
 
 ---
 
-> *"Code is art, and I'm here to paint intelligent, interactive experiences."*
+*"Code is art, and I'm here to paint intelligent, interactive experiences."*
 
 </div>
 
