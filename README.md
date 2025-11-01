@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Abdul Rehman</h1>
 
 # 💫 About Me:
-I am a 3rd year Computer Science Student at AITM, passionate about building intelligent applications that blend creativity with cutting-edge technology, specializing in mobile and web development.
+I am a third-year Computer Science engineering student at AITM, passionate about building intelligent applications that blend creativity with cutting-edge technology, specializing in mobile and web development.
 
 ## 🚀 What I'm Up To
 - 🤖 Building AI-powered applications!
