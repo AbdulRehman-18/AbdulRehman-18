@@ -1,58 +1,89 @@
-<h1 align="center">Hi 👋 I'm Abdul Rehman</h1>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
-# 💫 About Me:
-I am a third-year Computer Science engineering student at AITM, passionate about building intelligent applications that blend creativity with cutting-edge technology, specializing in mobile and web development.
+  <br/><br/>
+  
+  <h1 style="font-size: 60px; margin-bottom: 0;">ABDUL REHMAN</h1>
+  <h3 style="margin-top: 0; font-weight: 400;">学 生 デ ベ ロ ッ パ ー</h3>
+  <p>
+    <a href="https://www.linkedin.com/in/abdulrehman-dev">
+      <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="https://abdulrehmanx.vercel.app/">
+      <img src="https://img.shields.io/badge/Portfolio-D7263D?style=for-the-badge&logo=vercel&logoColor=white"/>
+    </a>
+    <a href="mailto:abdulrehman45865@gmail.com">
+      <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+  </p>
+</div>
 
-## 🚀 What I'm Up To
-- 🤖 Building AI-powered applications!
-- 📱 Creating seamless mobile experiences with React Native and Expo
-- 🎨 Exploring creative UI/UX design systems
+<br />
 
-Check out my [portfolio!](https://abdulrehmanx.vercel.app/)
+<table>
+  <tr>
+    <td width="65%" valign="top">
+      <h2> About Me</h2>
+      <p>
+        I am a third-year <b>Computer Science Engineer</b> at AITM. My journey is defined by a curiosity for how things work under the hood—from the byte level of <b>Automata Theory</b> to the high-level architecture of <b>Spring Boot</b> microservices.
+      </p>
+      <p>
+        I don't just write code; I am building a toolset for the future.
+      </p>
+      <ul>
+        <li>🌸 <b>Currently Building:</b> <i>Code AI</i> (A Website Builder)</li>
+        <li>🏯 <b>Learning:</b> React Native Expo & Backend Scalability</li>
+        <li>🍡 <b>Goal:</b> To merge creative design with robust engineering.</li>
+      </ul>
+    </td>
+    <td width="35%" valign="center" align="center">
+      <h1 style="writing-mode: vertical-rl; text-orientation: upright; font-size: 50px; border-left: 4px solid #D7263D; padding-left: 25px; color: #D7263D;">
+        不 <br/> 撓 <br/> 不 <br/> 屈
+      </h1>
+      <p><i>(Futōfukutsu)</i><br/>"Never give up"</p>
+    </td>
+  </tr>
+</table>
 
-## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrehman-dev)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdulrehman45865@gmail.com)
+<br />
 
-# 💻 Tech Stack:
+<h2>⚔️ The Armory</h2>
 
-Languages:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-Frontend:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
-
-Backend & Database:
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-
-
-AI/ML:
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
-
-Developer Tools:
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-# 📊 GitHub Stats:
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=AbdulRehman-18&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+| **Core** | **Frontend & Mobile** | **Backend & AI** |
+| :---: | :---: | :---: |
+| ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=springboot&logoColor=white) |
+| ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white) | ![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) | ![NodeJS](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white) |
+| ![TS](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white) | ![Expo](https://img.shields.io/badge/Expo-D7263D?style=for-the-badge&logo=expo&logoColor=white) | ![Supabase](https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=white) |
+| ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Figma](https://img.shields.io/badge/Figma-D7263D?style=for-the-badge&logo=figma&logoColor=white) | ![Gemini](https://img.shields.io/badge/Gemini_AI-000000?style=for-the-badge&logo=google-gemini&logoColor=white) |
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=AbdulRehman-18&theme=dark&hide_border=false)
+</div>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRehman-18&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br/>
 
+<h2>📊 Statistics</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdulRehman-18&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=D7263D&text_color=ffffff&icon_color=D7263D&border_color=D7263D&hide_border=true" height="180" alt="stats graph" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRehman-18&layout=compact&bg_color=0d1117&title_color=D7263D&text_color=ffffff&icon_color=D7263D&border_color=D7263D&hide_border=true" height="180" alt="languages graph" />
+  
+  <br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulRehman-18&theme=radical&background=0d1117&ring=D7263D&currStreakLabel=D7263D&fire=D7263D&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="streak stats"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ProgrammingXBoy/.github/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=D7263D&height=2&width=100%" />
+  <br/>
+  <i>"Simplicity is the soul of efficiency."</i>
 </div>
