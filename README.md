@@ -64,17 +64,33 @@
 
 <h2>📊 Statistics</h2>
 
+<table align="center">
+  <tr>
+    <td align="center">
+      <img
+        src="https://my-git-stats.vercel.app/api?username=AbdulRehman-18&show_icons=true&include_all_commits=true&count_private=true&theme=chartreuse-dark"
+        height="200"
+        alt="GitHub Stats"
+      />
+    </td>
+    <td align="center">
+      <img
+        src="https://my-git-stats.vercel.app/api/top-langs/?username=AbdulRehman-18&layout=compact&theme=chartreuse-dark"
+        height="200"
+        alt="Top Languages"
+      />
+    </td>
+  </tr>
+</table>
+
+
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdulRehman-18&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=D7263D&text_color=ffffff&icon_color=D7263D&border_color=D7263D&hide_border=true" height="180" alt="stats graph" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRehman-18&layout=compact&bg_color=0d1117&title_color=D7263D&text_color=ffffff&icon_color=D7263D&border_color=D7263D&hide_border=true" height="180" alt="languages graph" />
-  
-  <br/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulRehman-18&theme=radical&background=0d1117&ring=D7263D&currStreakLabel=D7263D&fire=D7263D&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="streak stats"/>
+  <img
+    src="https://my-readme-streak-stats-tau.vercel.app?user=AbdulRehman-18&theme=microsoft-dark"
+    alt="GitHub streak"
+  />
 </div>
-
-<br/>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/ProgrammingXBoy/.github/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
