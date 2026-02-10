@@ -88,7 +88,7 @@
 
 <div align="center">
   <img
-    src="https://streak-stats-rust.vercel.app?user=AbdulRehman-18&theme=microsoft-dark"
+    src="https://streak-stats.demolab.com?user=AbdulRehman-18&theme=microsoft-dark"
     alt="GitHub streak"
   />
 </div>
