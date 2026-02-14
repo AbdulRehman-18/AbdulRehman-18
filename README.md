@@ -10,7 +10,7 @@
     <a href="https://www.linkedin.com/in/abdulrehman-dev">
       <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
-    <a href="https://abdulrehmanx.vercel.app/">
+    <a href="https://abdulrehman-18.vercel.app/">
       <img src="https://img.shields.io/badge/Portfolio-D7263D?style=for-the-badge&logo=vercel&logoColor=white"/>
     </a>
     <a href="mailto:abdulrehman45865@gmail.com">
