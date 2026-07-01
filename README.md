@@ -3,7 +3,6 @@
 
   <br/><br/>
 
-  
   <h1 style="font-size: 60px; margin-bottom: 0;">ABDUL REHMAN</h1>
   <h3 style="margin-top: 0; font-weight: 400;">学 生 デ ベ ロ ッ パ ー</h3>
   <p>
